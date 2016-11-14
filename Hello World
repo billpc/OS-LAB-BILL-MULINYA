@@ -1,8 +1,0 @@
-#!/bin/bash
-function line ()
-  {
-    echo  
-          }
-clear
-
-echo "Hello World!"
